@@ -1,6 +1,7 @@
 import java.util.Calendar;
 
 public class DisplayCalendars {
+// 13.4 display calendars
 	
 	private static MyCalendar calendar;
 	/** Main method */
